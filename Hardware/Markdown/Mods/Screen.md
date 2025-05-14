@@ -2,6 +2,7 @@
 
 ## Screen Upgrades
 - [DeckHD (LCD)](https://www.deckhd.com/)
+    - Beware that there are some complaints about lack of support and shipping of orders, do some research before buying
     - Needs custom BIOS [(Download)](https://www.deckhd.com/downloads/)
     - 1920x1200
     - Higher resolution results in less performance and battery life
@@ -13,7 +14,16 @@
 - DeckSight LCD To OLED Swap
     - [Video explaining how it works](https://www.youtube.com/watch?v=a82oEvBirzg)
     - [Test video](https://www.youtube.com/watch?v=6k0xo2lMYZk)
+    - [Installation & Additional Information Video](https://www.youtube.com/watch?v=AHnJsKKZ4Gg)
+        - The maker recommends installing the custom BIOS before swapping the screen, the old LCD screen won't - work use an external monitor
+        - There will be tools included such as: plastic picks, a suction cup, a screwdriver etc...
+        - The video shows the screen running at 80hz at 1080p
+        - The screen might be oriented the wrong way in desktop mode, it can easily be fixed within the Display Configuration
+        - Apparently sometimes ("1/3 chance") the screen might be missing colors which can be quickly fixed by entering / exiting sleep mode, hopefully fixed in future BIOS update
+        - There might be a slight flash (line) when changing modes (like booting up, exiting gamescope etc...)
+        - There might be a script & a Decky Loader plugin so brightness works correctly in desktop and gaming mode
     - [Crowdfunding page](https://www.crowdsupply.com/shade-technik/decksight)
+    - Maker says its going to start shipping in June 2025 (it got delayed)
 
 ## Etched / Glossy Screen And Screen Protector Information
 - [OLED Etched Glass vs Glossy Arguments Need to Stop](https://www.reddit.com/r/SteamDeck/comments/17txh1n/oled_etched_glass_vs_glossy_arguments_need_to_stop/)
