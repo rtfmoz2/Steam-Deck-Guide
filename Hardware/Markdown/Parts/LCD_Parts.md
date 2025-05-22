@@ -35,16 +35,36 @@ Any of these measurements might not be perfect, give or take an extra 0.5mm.
 ![Kenfixed_LCD_Traces_1](../../Images/Traces/Kenfixed_LCD_Traces_1.png)
 ![Kenfixed_LCD_Traces_2](../../Images/Traces/Kenfixed_LCD_Traces_2.png)
 
-## Joystick
+## Parts
+
+### Joystick
 - Uses PS5 pinouts
 - Thumbstick cap is capacitive (that's what the wire that's soldered to the module is for)
 - There are two Types (A or B)
 
-### Backside Of Right Joystick
+#### Backside Of Right Joystick
 ![Right Joystick Backside](../../Images/LCD/Production/Kenfixed_LCD_Joystick_Backside.png)
 
-### Other Controllers' Pinouts ([Source (?)](https://www.reddit.com/r/ConsoleRepairUK/comments/18i6al8/ps5_ps4_xbox_hall_effect_analog_stick_pinout/))
+#### Other Controllers' Pinouts ([Source (?)](https://www.reddit.com/r/ConsoleRepairUK/comments/18i6al8/ps5_ps4_xbox_hall_effect_analog_stick_pinout/))
 ![Other Pinouts](../../Images/Measurements/4nH3r0_Controller_Pinouts.webp)
 
-## Additional information
+### Fan Header
+![TE Connectivity 2483180-4](../../Images/Other/Mouser_TE_Connectivity_2483180-4.png)
+- [TE Connectivity 2483180-4](https://eu.mouser.com/ProductDetail/TE-Connectivity/2483180-4?qs=sGAEpiMZZMvlX3nhDDO4ADM3qnTU%252BbjxNmfJQeot/Po%3D)
+- [Source: Valve Employee (u/SteamHWFeedBack)](https://www.reddit.com/r/SteamDeck/comments/1j0k1y0/comment/mfceils/)
+
+### USB-C Port
+
+#### Components
+- Caps: .22u, 0201, 25V Rated (USB-3/DP may not work without them)
+- Diodes: PESD5V0C1BSF
+- Might be able to get away with missing ESD components but it's not recommended
+- [Source: Valve Employee (u/SteamHWFeedBack)](https://www.reddit.com/r/SteamDeck/comments/1j0k1y0/comment/mfc7u68/)
+
+#### Pinout
+![USB-C Pinout 1](../../Images/Measurements/Ayo_Gart_LCD_USB-C_Pinout_1.png)
+![USB-C Pinout 2](../../Images/Measurements/Ayo_Gart_LCD_USB-C_Pinout_2.png)
+![USB-C Pinout 3](../../Images/Measurements/Ayo_Gart_LCD_USB-C_Pinout_3.png)
+
+### Additional information
 - [Different input / controller daughterboard revisions might not be "drop-in" replacements (firmware flashing might be needed)](https://www.reddit.com/r/SteamDeckModded/comments/1gcftli/can_i_really_use_a_rev_f_instead_of_another_rev_g/)
