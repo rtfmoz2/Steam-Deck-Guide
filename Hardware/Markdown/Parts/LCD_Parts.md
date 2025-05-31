@@ -61,10 +61,15 @@ Any of these measurements might not be perfect, give or take an extra 0.5mm.
 - Might be able to get away with missing ESD components but it's not recommended
 - [Source: Valve Employee (u/SteamHWFeedBack)](https://www.reddit.com/r/SteamDeck/comments/1j0k1y0/comment/mfc7u68/)
 
+- Additional pictures by Ayo_Gart:
+
+![USB-C Pinout Components 1](../../Images/Measurements/Ayo_Gart_LCD_USB-C_Components_1.png)
+![USB-C Pinout Components 2](../../Images/Measurements/Ayo_Gart_LCD_USB-C_Components_2.png)
+
 #### Pinout
 ![USB-C Pinout 1](../../Images/Measurements/Ayo_Gart_LCD_USB-C_Pinout_1.png)
 ![USB-C Pinout 2](../../Images/Measurements/Ayo_Gart_LCD_USB-C_Pinout_2.png)
-![USB-C Pinout 3](../../Images/Measurements/Ayo_Gart_LCD_USB-C_Pinout_3.png)
+![USB-C Pinout 5](../../Images/Measurements/Ayo_Gart_LCD_USB-C_Pinout_3.png)
 
 ### Additional information
 - [Different input / controller daughterboard revisions might not be "drop-in" replacements (firmware flashing might be needed)](https://www.reddit.com/r/SteamDeckModded/comments/1gcftli/can_i_really_use_a_rev_f_instead_of_another_rev_g/)
