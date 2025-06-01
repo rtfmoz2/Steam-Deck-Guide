@@ -44,6 +44,7 @@
 - Remove background of Steam Deck revision pictures manually
 - Separate EV2 and early production LCD Steam Decks in comparison table
 - OLED battery swap into LCD Deck? ([Currently doesn't work - Most likely a firmware modification is needed](https://www.ifixit.com/Answers/View/823192/Could+I+put+the+new+Steam+Deck+OLED+battery+into+the+original+Deck))
+- Research and test bigger battery (50/53Wh) upgrade for LCD Deck from [AliExpress](https://www.aliexpress.com/item/1005008790517752.html) / TaoBao?
 - Type A (MEDA) vs Type B (MHDA) LCD joysticks comparison ([difference in capacitive touch and microcontroller?](https://www.ifixit.com/Guide/Steam+Deck+Left+Thumbstick+Replacement/148896))
 - Compile useful commands and tips for hardware modding
 - Get more info about panel types (BOE, Samsung etc...)
