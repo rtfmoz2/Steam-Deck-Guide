@@ -68,17 +68,17 @@
 
 ## 🪛 Hardware Upgrades
 
+- ### [Cooling (Backplates, Fans, Thermal Pastes / Pads)](./Markdown/Mods/Cooling.md)
+- ### [Inputs (Joysticks, Buttons, Trackpads, etc...)](./Markdown/Mods/Inputs.md)
+- ### [Screen Replacements, Upgrades, Protectors](./Markdown/Mods/Screen.md)
 - ### [Wireless Connectivity (Wifi And Bluetooth)](./Markdown/Mods/Wireless.md)
-- ### [Storage (SSD And MicroSD)](./Markdown/Mods/Storage.md)
-- ### [Screen & Screen Protectors](./Markdown/Mods/Screen.md)
+- ### [Storage (SSDs And MicroSD Cards)](./Markdown/Mods/Storage.md)
 - ### [Tracking Device (eg. AirTag)](https://www.reddit.com/r/SteamDeck/comments/1aojmq8/added_a_slim_airtag_to_my_steam_deck/)
 - ### [Memory / RAM](./Markdown/Mods/Memory.md)
 - ### [External GPU](https://www.reddit.com/r/SteamDeck/comments/1eqh47y/franken_deck_abomination/)
 - ### [Dual Battery](https://www.reddit.com/r/SteamDeck/comments/15r2ffl/steam_deck_duel_battery_upgrade/)
 - ### [Dual Screen](https://www.reddit.com/r/SteamDeckModded/comments/1en98vt/my_take_on_dual_screen/)
-- ### [Cooling](./Markdown/Mods/Cooling.md)
 - ### [Rumble](./Markdown/Mods/Rumble.md)
-- ### [Inputs](./Markdown/Mods/Inputs.md)
 
 ## [🕹️ Accessories](./Markdown/Other/Accessories.md)
 
