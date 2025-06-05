@@ -53,3 +53,8 @@
 - Add other places to get / details about replacement parts (eg. trigger springs, USB-C port)
 - Add information about various backplate mod differences (extra holes, heatsinks, RGB etc...)
 - Redesign [steamdeck.guide](https://steamdeck.guide)
+- Revamp FAQ and Software Guides
+- Add information to FAQ:
+    - Charging / power related topics
+    - "Must haves"
+    - Beginner tips
