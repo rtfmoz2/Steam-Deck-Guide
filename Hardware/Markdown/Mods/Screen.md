@@ -1,17 +1,17 @@
 # Screen Modifications And Screen Protectors
 
 ## Screen Upgrades
-- [DeckHD (LCD)](https://www.deckhd.com/)
-    - Beware that there are some complaints about lack of support and shipping of orders, do some research before buying
-    - Needs custom BIOS [(Download)](https://www.deckhd.com/downloads/)
-    - 1920x1200
-    - Higher resolution results in less performance and battery life
-    - Slightly better colors
-    - Anti-glare coating
 - Original LCD / OLED Anti-Glare Replacement
     - [Steam Deck (512GB LCD) Screen](https://www.ifixit.com/products/steam-deck-512gb-screen)
     - [Steam Deck (1TB OLED) Screen](https://www.ifixit.com/products/steam-deck-oled-1tb-screen)
-- DeckSight LCD To OLED Swap
+- [DeckHD (LCD, 1920x1200, 16:10)](https://www.deckhd.com/)
+    - Beware that there are some complaints about lack of support and shipping of orders, do some research before buying
+    - Needs custom BIOS [(Download)](https://www.deckhd.com/downloads/)
+        - [DeckHD GitHub Repositories](https://github.com/DeckHD)
+    - Higher resolution results in less performance and battery life
+    - Slightly better colors
+    - Anti-glare coating
+- [DeckSight (LCD To OLED Swap, 1920x1080, 16:9)](https://www.shadetechnik.com/decksight)
     - [Video explaining how it works](https://www.youtube.com/watch?v=a82oEvBirzg)
     - [Test video](https://www.youtube.com/watch?v=6k0xo2lMYZk)
     - [Installation & Additional Information Video](https://www.youtube.com/watch?v=AHnJsKKZ4Gg)
@@ -23,6 +23,8 @@
         - There might be a slight flash (line) when changing modes (like booting up, exiting gamescope etc...)
         - There might be a script & a Decky Loader plugin so brightness works correctly in desktop and gaming mode
     - [Crowdfunding page](https://www.crowdsupply.com/shade-technik/decksight)
+    - [Automated Install Script](https://www.shadetechnik.com/decksightinstall)
+    - [Manual Install GitHub Repository](https://github.com/ShadeTechnik/DeckSight-Public)
     - Maker says its going to start shipping in June 2025 (it got delayed)
 
 ## Etched / Glossy Screen And Screen Protector Information
