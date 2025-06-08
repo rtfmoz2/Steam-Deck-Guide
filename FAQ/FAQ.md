@@ -53,19 +53,18 @@ Answers for Frequently Asked Questions related to the Steam Deck.
     - Xbox Series S/X
 
 ## Sales
-- [Steam Sales](https://steamdb.info/sales/history/)
-- Non-Steam Platforms (Fanatical, Humble Bundle etc...)
+- [Steam Sales For Games](https://steamdb.info/sales/history/)
+- Non-Steam Platforms For Games (Fanatical, Humble Bundle etc...)
 - Previous Steam Deck Sales
     - LCD
     - OLED
     - Dock
 
 ## [Accessories](./Markdown/Accessories.md)
-- General Recommendations
 - MicroSD Cards
-- Back button extensions
-- Screen protectors
-- Thumbstick caps
+- Back Button Extensions
+- Screen Protectors
+- Thumbstick Caps
 - Controllers
 - Docks
 - Cases
@@ -74,33 +73,33 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - Controllers
 - Powerbanks
 - Chargers
-- External monitors
+- External Monitors
 - VR headsets & AR / XR glasses
+- Backplate Extension Systems (eg. Mechanism)
 - [Manufacturer list](./Markdown/Accessories.md#manufacturer-list)
 
 ## [Hardware](https://hardware.steamdeck.guide)
-- Differences between LCD and OLED Deck
-- Battery and charging
-- Limitations
+- Differences Between Various Versions (LCD, OLED, Limited Editions)
+- Battery and Charging
 - Remote Wake
 - SSD Swap
 
 ## [Software](https://software.steamdeck.guide)
+- Operating Systems (SteamOS, Windows, Other Linux Distros)
 - Decky (3rd party plugins)
 - Emulation (eg. Emudeck)
 - Remote Play
 - Cloud Gaming
-- SteamOS
-- Windows
 - Proton & Wine
+- Non Steam Launchers
 
 ## Gaming
 - [Does ***INSERT GAME'S NAME*** work under Linux / on Deck? + Deck Verified program](./Markdown/Gaming.md#game-compatibility)
 - [Game Launchers & Accessing Other Stores](./Markdown/Gaming.md#game-launchers--accessing-other-stores)
 - Game / Quick Access Menu (QAM) settings
+- Maximizing Battery Life / Performance
 - Steam Input / Controller Templates
 - [Top played games on Deck](https://store.steampowered.com/charts/steamdecktopplayed)
-- Recommendations
 
 ## Other Use Cases
 - Desktop Mode
