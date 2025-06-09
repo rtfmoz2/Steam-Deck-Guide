@@ -39,44 +39,16 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - Media consumption, doing work etc...
     - Might benefit from a larger screen, built in keyboard or more ports which the Steam Deck lacks (unless a hub / dock is used)
 
-## Comparisons
-- Desktop Computer
-- Laptop
-- Handhelds
-    - Asus ROG Ally (X)
-    - Lenovo Legion Go
-    - Playstation Portal
-    - MSI Claw
-    - Nintendo Switch (OLED / 2)
-- Consoles
-    - PS5
-    - Xbox Series S/X
+## [Comparisons](./Markdown/Comparisons.md)
+- Steam Deck or other solutions? (Laptop, Other Handhelds, Consoles etc...)
 
-## Sales
-- [Steam Sales For Games](https://steamdb.info/sales/history/)
-- Non-Steam Platforms For Games (Fanatical, Humble Bundle etc...)
-- Previous Steam Deck Sales
-    - LCD
-    - OLED
-    - Dock
+## Previous / Current Sales
+- [LCD (Shows 256GB Prices - Current New Lowest Tier)](https://steamdb.info/sub/595604/)
+- [OLED (Shows 512GB Prices)](https://steamdb.info/sub/946113/)
+- [Valve Steam Deck Dock](https://steamdb.info/app/1696780/)
 
 ## [Accessories](./Markdown/Accessories.md)
-- MicroSD Cards
-- Back Button Extensions
-- Screen Protectors
-- Thumbstick Caps
-- Controllers
-- Docks
-- Cases
-- Keyboards
-- Mouse
-- Controllers
-- Powerbanks
-- Chargers
-- External Monitors
-- VR headsets & AR / XR glasses
-- Backplate Extension Systems (eg. Mechanism)
-- [Manufacturer list](./Markdown/Accessories.md#manufacturer-list)
+- Contains lists of various accessories and manufacturers
 
 ## [Hardware](https://hardware.steamdeck.guide)
 - Differences Between Various Versions (LCD, OLED, Limited Editions)
@@ -93,13 +65,8 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - Proton & Wine
 - Non Steam Launchers
 
-## Gaming
-- [Does ***INSERT GAME'S NAME*** work under Linux / on Deck? + Deck Verified program](./Markdown/Gaming.md#game-compatibility)
-- [Game Launchers & Accessing Other Stores](./Markdown/Gaming.md#game-launchers--accessing-other-stores)
-- Game / Quick Access Menu (QAM) settings
-- Maximizing Battery Life / Performance
-- Steam Input / Controller Templates
-- [Top played games on Deck](https://store.steampowered.com/charts/steamdecktopplayed)
+## [Gaming](./Markdown/Gaming.md)
+- Tips for playing and buying games for your Steam Deck
 
 ## Other Use Cases
 - Desktop Mode
