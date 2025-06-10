@@ -1,6 +1,14 @@
 # Steam Deck Prototypes
 
-## "Engineering Sample 34" Sold On Ebay
+## "Engineering Sample 34" Sold On Ebay [Bought By SadlyItsBradley](https://x.com/SadlyItsBradley/status/1932457900879806884)
+
+### ["So about that $3,000 Prototype Steam Deck..."](https://www.youtube.com/watch?v=ZILXRqTEl3g) - Showcase Video By Bringus Studios
+
+### Hardware Details (WIP)
+
+### Software Details (WIP)
+
+### Other Information (WIP)
 
 ### Listing Details:
 - Link (Most likely redirects to different Steam Deck listing): https://www.ebay.com/itm/277015390664
@@ -32,8 +40,6 @@
 ![SDHQ Prototype Sold Listing](../../Images/Prototypes/SDHQ_Prototype_Sold.webp)
 ![Gary_the_mememachine Prototype Sold Listing](../../Images/Prototypes/Gary_the_mememachine_Prototype_Sold.webp)
 
-### Additional Details
-- ["A Steam Deck engineering prototype was just sold on eBay today for $3000 😭"](https://www.reddit.com/r/SteamDeck/comments/1jurheo/a_steam_deck_engineering_prototype_was_just_sold/) - Discussion on r/SteamDeck
 
 ## Media From Valve And An Employee
 
