@@ -5,10 +5,16 @@
 ### ["So about that $3,000 Prototype Steam Deck..."](https://www.youtube.com/watch?v=ZILXRqTEl3g) - Showcase Video By Bringus Studios
 
 ### Hardware Details (WIP)
+- APU: AMD Ryzen 7 3700U (?)
+- RAM: 2x4GB 2400Mhz modules - 2GB Allocated To Graphics (?)
+- Storage: BC511 NVMe SK hynix 256GB (SK Hynix HFB1A8MQ431A0MR)
+- Wireless Module: Intel 8265D2W
 
 ### Software Details (WIP)
+- Early version of SteamOS 3.0
 
 ### Other Information (WIP)
+- Had two Valve accounts in it
 
 ### Listing Details:
 - Link (Most likely redirects to different Steam Deck listing): https://www.ebay.com/itm/277015390664
