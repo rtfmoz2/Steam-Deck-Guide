@@ -68,11 +68,12 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 ## [Gaming](./Markdown/Gaming.md)
 - Tips for playing and buying games for your Steam Deck
 
-## Other Use Cases
-- Desktop Mode
-- [Using Steam Deck As A Controller](https://github.com/HelloThisIsFlo/Deckpad)
-- Connecting Laptop / Tablet / Other External Displays
-- Developing For The Steam Deck
+## Different Use Cases
+- Primary (Desktop) PC
+- Emulation Machine
+- Development Computer
+- Living Room Console
+- [As A Controller](https://github.com/HelloThisIsFlo/Deckpad)
 
 ## Other Resources / Communities
 - [Steam Deck Discord](https://discord.com/invite/steamdeck) + [Their FAQ](https://bit.ly/steamdeckfaq)
