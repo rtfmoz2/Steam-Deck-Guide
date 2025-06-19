@@ -28,7 +28,7 @@
 |Image|Description|
 |---|---|
 |![Older model (beginning of EV3) and an early model (EV2, sent out as dev kits)](./Images/LCD/iFixit_Valve_And_Old_LCD.png) | **Older model (beginning of EV3) and an early model (EV2, some early dev kits)** |
-|![Newer revision with black shielding and other changes](./Images/LCD/iFixit_Newer_LCD.png) | **Newer revision with black shielding and other changes </br> [(What NKkrisz Owns, Click For Extra Details)](./Markdown/Revisions/LCD_64GB_Black_Shielded.md)** |
+|![Newer revision with black shielding and other changes](./Images/LCD/iFixit_Newer_LCD.png) | **Newer revision with black shielding and other changes <br> [(What NKkrisz Owns, Click For Extra Details)](./Markdown/Revisions/LCD_64GB_Black_Shielded.md)** |
 
 ### OLED Version
 

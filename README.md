@@ -58,3 +58,6 @@
     - Charging / power related topics
     - "Must haves"
     - Beginner tips
+- Make better styling for the different parts of the guide:
+    - Light / dark mode
+    - Lists
