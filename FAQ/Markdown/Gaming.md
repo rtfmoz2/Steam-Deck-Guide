@@ -2,6 +2,20 @@
 
 ## Game / Quick Access Menu (QAM) settings
 
+### Brightness Slider / HDR
+- For HDR to work on compatible displays (eg. OLED Steam Deck internal screen) these are the requirements:
+    - Play in Gaming Mode (HDR only works on Wayland, Desktop Mode uses X11)
+    - Game supports HDR and is enabled in the settings
+    - Game is set to fullscreen mode
+    - Helpful commands:
+        - For some games that run outside of the Steam library - ```DXVK_HDR=1 PROTON_ENABLE_AMD_AGS=1 %command%```
+        - For certain games ```SteamDeck=0 %command%``` and ```-dx12``` or ```-d3d12```
+- Some information here is copied from and additional useful things [can be in this guide by u/mytrixx on r/SteamDeck regarding HDR](https://www.reddit.com/r/SteamDeck/comments/1868qyv/steam_deck_oled_hdr_games_guide/)
+- Two-tone slider explanation:
+    - First part adjusts the brightness via the display hardware which changes how strongly each pixel lights up.
+    - Second half adjusts the brightness via digital gain on the image we send to the display.
+    - Source: Valve Employee - Slightly edited for better grammar / punctuation
+
 ## Maximizing Battery Life / Performance
 
 ## Steam Input / Controller Templates
