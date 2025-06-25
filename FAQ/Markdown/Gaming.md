@@ -1,6 +1,6 @@
 # Gaming On The Steam Deck
 
-## Game / Quick Access Menu (QAM) settings
+## Quick Settings
 
 ### Brightness Slider / HDR
 - For HDR to work on compatible displays (eg. OLED Steam Deck internal screen) these are the requirements:
@@ -15,6 +15,74 @@
     - First part adjusts the brightness via the display hardware which changes how strongly each pixel lights up.
     - Second half adjusts the brightness via digital gain on the image we send to the display.
     - Source: Valve Employee - Slightly edited for better grammar / punctuation
+
+### Audio
+
+#### Volume
+
+#### Microphone Level
+
+### Other
+
+#### Airplane mode
+
+#### Wi-Fi
+
+#### Bluetooth
+
+#### Night mode
+
+### Controller
+
+#### Game rumble
+
+#### Steam haptics
+
+## Performance
+
+### Battery Level
+
+### Performance Overlay Level
+- Off:
+- 1:
+- 2:
+- 3:
+- 4:
+
+**To use settings below you need to be in ```Advanced View``` instead of ```Basic View```**
+
+### Performance Settings
+
+#### Use per-game profile
+
+#### Frame Limit
+
+#### Disable Frame Limit
+
+#### Allow Tearing
+- [Currently it doesn't seem to work](https://github.com/ValveSoftware/SteamOS/issues/1391)
+
+#### Half Rate Shading
+
+#### TDP Limit
+
+#### Manual GPU Clock
+
+#### Scaling Mode
+- Auto:
+- Integer:
+- Fit:
+- Stretch:
+- Fill:
+
+#### Scaling Filter
+- Linear:
+- Pixel:
+- Sharp:
+
+#### Show Perf Overlay In Steam
+
+#### Reset to Default
 
 ## Maximizing Battery Life / Performance
 
