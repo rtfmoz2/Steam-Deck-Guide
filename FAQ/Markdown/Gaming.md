@@ -18,9 +18,8 @@
 
 ### Audio
 
-#### Volume
-
-#### Microphone Level
+#### Volume & Microphone
+- Mute or set loudness of your current output device and microphone
 
 ### Other
 
@@ -40,14 +39,16 @@
 
 ## Performance
 
-### Battery Level
+### Battery
+- Shows battery level in %
+- Calculates remaining battery life in hours and minutes based on current power usage
 
 ### Performance Overlay Level
-- Off:
-- 1:
-- 2:
-- 3:
-- 4:
+- Off: No overlay 
+- 1: FPS only in top left corner
+- 2: FPS, Frametime, CPU, GPU, RAM, VRAM, Battery, Power Usage and Time information in a row at the top of the screen
+- 3: Same as level 2 but a tiny bit more detailed and on the left side
+- 4: Everything on the left side
 
 **To use settings below you need to be in ```Advanced View``` instead of ```Basic View```**
 
@@ -58,15 +59,18 @@
 #### Frame Limit
 
 #### Disable Frame Limit
+- Allows the Deck to go beyond the highest frame limit
 
 #### Allow Tearing
-- [Currently it doesn't seem to work](https://github.com/ValveSoftware/SteamOS/issues/1391)
+- By default the Deck uses some form of sync so there isn't tearing on the screen making the image smoother with the downside of more input lag
+- [Currently this option doesn't seem to work](https://github.com/ValveSoftware/SteamOS/issues/1391)
 
 #### Half Rate Shading
 
 #### TDP Limit
 
 #### Manual GPU Clock
+- In certain situations its more beneficial to set this manually
 
 #### Scaling Mode
 - Auto:
@@ -81,6 +85,7 @@
 - Sharp:
 
 #### Show Perf Overlay In Steam
+- Enables the performance overlay to show up when not playing a game in gaming mode (browsing menus)
 
 #### Reset to Default
 
