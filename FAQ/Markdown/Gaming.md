@@ -90,6 +90,13 @@
 #### Reset to Default
 
 ## Maximizing Battery Life / Performance
+- Use in-game settings
+    - Set graphics quality
+    - Set resolution
+        - Use FSR / XeSS upscaling / frame-generation
+- Set Frame Limit, TDP Limit and Manual GPU Clock in Quick Settings
+- Set Scaling Mode and Filter in Quick Settings
+- Overclock / undervolt in the BIOS
 
 ## Steam Input / Controller Templates
 
