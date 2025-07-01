@@ -75,6 +75,9 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - Living Room Console
 - [As A Controller](https://github.com/HelloThisIsFlo/Deckpad)
 
+## [Troubleshooting](./Markdown/Troubleshooting.md)
+- Some tips on how to potentially solve issues regarding the Steam Deck
+
 ## Other Resources / Communities
 - [Steam Deck Discord](https://discord.com/invite/steamdeck) + [Their FAQ](https://bit.ly/steamdeckfaq)
 - [r/SteamDeck](https://reddit.com/r/SteamDeck)
