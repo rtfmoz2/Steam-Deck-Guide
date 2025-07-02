@@ -2,9 +2,10 @@
 
 ## General
 - Restart The Steam Deck
+- Make sure OS / drivers / software (game) are fully updated
+- Factory reset / reinstall OS
 - Search for the issue (YouTube, Steam Deck communities etc...)
 - Post about the issue you're encountering if you couldn't fix a solution
-- Factory reset / reinstall OS
 - Contact Steam Support
 
 ## Charging
@@ -20,3 +21,8 @@
 
 ## Decky
 - Disable it and update / reinstall / uninstall in Desktop Mode
+
+## Accessories & Bluetooth
+- If it's a Bluetooth device sometimes re-pairing it can help to connect it again
+- Xbox Wireless controllers might need a [firmware update](https://support.xbox.com/en-US/help/hardware-network/controller/update-xbox-wireless-controller) to connect properly
+- MicroSD cards can be faked, buy from reputable sellers that have good return / refund policy
