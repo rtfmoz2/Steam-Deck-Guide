@@ -23,13 +23,9 @@
 
 ### Other
 
-#### Airplane mode
-
-#### Wi-Fi
-
-#### Bluetooth
-
-#### Night mode
+#### Airplane mode, Wi-Fi, Bluetooth, Night mode
+- Toggle features
+- Bluetooth ```Add Device``` button navigates into ```Settings > Bluetooth```
 
 ### Controller
 
@@ -55,8 +51,13 @@
 ### Performance Settings
 
 #### Use per-game profile
+- Toggle to use saved Performance Settings for currently running game
 
 #### Frame Limit
+- Sets framerate and display refresh rate limit
+    - Optimal settings:
+        - LCD (60hz screen): 30 / 40 / 60
+        - OLED (90hz scree): 30 / 45 / 90
 
 #### Disable Frame Limit
 - Allows the Deck to go beyond the highest frame limit
@@ -88,6 +89,7 @@
 - Enables the performance overlay to show up when not playing a game in gaming mode (browsing menus)
 
 #### Reset to Default
+- Resets settings to their default value
 
 ## Maximizing Battery Life / Performance
 - Use in-game settings
