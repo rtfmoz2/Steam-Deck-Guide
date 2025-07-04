@@ -1,5 +1,8 @@
 # Contributing
 
+## Where To Contribute
+[GitHub > NKkrisz > Steam-Deck-Guide](https://github.com/NKkrisz/Steam-Deck-Guide)
+
 ## Rules & Guidelines
 - List the source of the information
 - Media files need to be named with source / creator's name at the beginning
