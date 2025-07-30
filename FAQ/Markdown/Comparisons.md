@@ -13,3 +13,4 @@ Source: [Handhelds](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7
 ## Consoles
 - PS5
 - Xbox Series S/X
+- Nintendo Switch 2
